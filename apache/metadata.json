@@ -1,0 +1,15 @@
+{
+  "name": "qt-apache",
+  "version": "0.1.0",
+  "author": "ss",
+  "summary": "installlation and uninstallations",
+  "license": "Apache-2.0",
+  "source": "https://github.com/nagaAnjana7/puppet.git",
+  "project_page": "https://github.com/nagaAnjana7/puppet",
+  "issues_url": "https://github.com/nagaAnjana7/puppet/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
